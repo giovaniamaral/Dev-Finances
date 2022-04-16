@@ -1,28 +1,26 @@
-<h1 align="center">
-    <a>🔗 Dev.finance$</a>
-</h1>
-<p align="center">💲 Aplicação web para controle financeiro 💲</p>
+# DESAFIO - MARATONA DISCOVER ROCKETSEAT
 
-🪐dev.finance$
+Este desafio integra a Trilha Discover da Rocketseat. É o desafio final do curso.
 
+⚒️ Tecnologias
 
-🪐Aplicação de controle financeiro desenvolvido por Mayk Brito durante a Maratona Discover oferecida pela Rocketseat.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-🪐O objetivo da aplicaçao é facilitar o controle financeiro das pessoas de forma simples e rapida.
+- HTML
+- CSS
+- JavaScript
 
-🪐Todos os dados sobre gastos e ganhos ficam salvos no Local Storage do navegador, assim, uma vez que a pagina é atualizada, os dados inseridos nao serao perdidos.
+💻 Projeto
 
-🪐Essa versao em especifico possui um "Theme Switcher" visando melhorar a experiencia do usuario que também salva a preferencia escolhida pelo usuario no navegador.
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
 
+🔖 Layout
 
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-English
+💻 Result:
 
+Veja a aplicação [aqui](https://dev-finance-dun.vercel.app/)
 
-🪐Financial control application developed by Mayk Brito during the Discover Marathon offered by Rocketseat.
+![Preview page GIF](./mockup/preview.gif)
 
-🪐The goal of the application is to make people's financial control easier and faster.
-
-🪐Every data about money spent and earned stay saved in Local Storage on browser, therefore, once the page is updated, the data won't be lost.
-
-🪐This version has a "Theme Switcher", which looks for improving users experience and also save their preferences chosen by them on browser.
